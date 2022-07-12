@@ -1,4 +1,4 @@
-## Olá! Eu sou o Allysom
+## Olá! Meu nome é Allysom
 
 - Pronomes: they/them
 - Linguagens: HTML, CSS, JS, PHP
