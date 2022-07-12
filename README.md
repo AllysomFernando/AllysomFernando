@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Allysom
 
 - Pronomes: they/them
+- Linguagens: HTML, CSS, JS, PHP
 
 <div align="center">
   <a href="https://github.com/AllysomFernando">
