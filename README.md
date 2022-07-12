@@ -3,7 +3,6 @@
 
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllysomFernando)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/AllysomFernando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllysomFernando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img align="right" alt="ally-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/c04adff246884148742620aafea5d7f5/0faca17eb1786652-82/s1280x1920/6c3fa91cf87c1e0acbea6f07e33ee0cf668882ea.gifv">
