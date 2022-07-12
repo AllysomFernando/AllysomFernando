@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Allysom
 
-- 🎒Hoje eu trabalho como estágiario de analista de infraestrutura
-- 📖 Estou estudando shell, node.js, java etc.
-- 😇 Pronomes: ele/ela/elu
 
 
 <div align="center">
