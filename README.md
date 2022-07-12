@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Allysom
 
-
+- Pronomes: they/them
 
 <div align="center">
   <a href="https://github.com/AllysomFernando">
