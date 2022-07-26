@@ -1,7 +1,7 @@
-## Olá! Meu nome é Allysom
+## Yo, My name is Allysom
 
-- Pronomes: they/them
-- Linguagens: HTML, CSS, JS, PHP
+- Pronouns: they/them
+- Language: HTML, CSS, JS, PHP, Node.js, React
 
 <div align="center">
   <a href="https://github.com/AllysomFernando">
