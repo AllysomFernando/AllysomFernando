@@ -1,7 +1,9 @@
 ## Yo, My name is Allysom
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 - Pronouns: they/them
-- Language: HTML<img align="center" alt="ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">, CSS <img align="center" alt="ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">, JS <img align="center" alt="ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">, PHP, Node.js, React
+- Language: HTML<img align="center" alt="ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">, CSS<img align="center" alt="ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">, JS<img align="center" alt="ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">, PHP, Node.js, React<i class="devicon-react-original-wordmark colored"></i>, React-Native
 
 <div align="center">
   <a href="https://github.com/AllysomFernando">
