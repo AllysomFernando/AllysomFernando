@@ -1,7 +1,7 @@
 ## Yo, My name is Allysom
 
 - Pronouns: they/them
-- Language: HTML, CSS, JS, PHP, Node.js, React
+- Language: HTML<img align="center" alt="ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">, CSS <img align="center" alt="ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">, JS <img align="center" alt="ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">, PHP, Node.js, React
 
 <div align="center">
   <a href="https://github.com/AllysomFernando">
@@ -10,9 +10,9 @@
    <img align="right" alt="ally-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/c04adff246884148742620aafea5d7f5/0faca17eb1786652-82/s1280x1920/6c3fa91cf87c1e0acbea6f07e33ee0cf668882ea.gifv">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
+  
 </div>
 </div>
 
