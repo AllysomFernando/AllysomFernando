@@ -4,7 +4,7 @@
 
 
           
- - Languages:                      <img width="40" height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://cdn.worldvectorlogo.com/logos/next-js.svg)" /> 
+ - Languages:                      <img width="40" height="40" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" /> 
                                    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                                    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
                                    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
