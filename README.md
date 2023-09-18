@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/0r1Oea1" align="center" style="width: 100%" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F775121.gif&f=1&nofb=1&ipt=e64a0d235c18c25fcafdfb2d7ac6f6f4fc6c1a9492172f001a5ad14517ecbd19&ipo=images" align="center" style="width: 100%" />
 </div>  
   
 
@@ -12,10 +12,6 @@
 - 🌱 I’m currently learning Quarkus  
   
 
--   
-  
-
--   
   
 
 <br/>  
@@ -56,9 +52,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
