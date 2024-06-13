@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Fundação Assis Gurgas as a Full-Stack Developer  
   
 
-- 🌱 I’m currently learning SpringBoot  
+- 🌱 I’m currently learning Drizzle  
   
 
   
