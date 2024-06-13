@@ -6,7 +6,7 @@
 ### <div align="center">I'm Allysom, a full-time full-stack developer </div>  
   
 
-- 🔭 I’m currently working on Fundação Assis Gurgas as a Full-Stack Developer  
+- 🔭 I’m currently working on Fundação Assis Gurgacz as a Full-Stack Developer  
   
 
 - 🌱 I’m currently learning Drizzle  
