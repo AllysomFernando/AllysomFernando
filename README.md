@@ -6,7 +6,6 @@
 
 <ul>
   <li>🔭 I’m working on Fundação Assis Gurgacz as a Full-Stack Developer</li>
-  <li>🌱 I’m currently learning Docker</li>
 </ul>
 
 <h2>My Skill Set</h2>
